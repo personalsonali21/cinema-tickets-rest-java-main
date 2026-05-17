@@ -12,7 +12,7 @@ Implemented CinemaTicketsServiceImpl in the existing package — no new packages
 
 	
 Assumptions - 
-	1. Payment service will not fail and no refund required
-	2. No idempotency handling — duplicate requests (same account, same tickets) are treated as  separate transactions
-	3. No authentication validation
-	4. Account ID can not be 0
+1. Payment service will not fail and no refund required
+2. No idempotency handling — duplicate requests (same account, same tickets) are treated as  separate transactions
+3. No authentication validation
+4. Account ID can not be 0
