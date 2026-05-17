@@ -1,4 +1,6 @@
-# cinema-tickets-rest-java-main# 
+# Cinema Tickets Code Test
+
+## Objective
 
 Step 1: Input validation - Account Id > 0, ticketRequests not null, ticketCount not null and greater than 0
 Step2: final count is fetched for adult, child and infant
