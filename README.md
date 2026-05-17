@@ -1,12 +1,14 @@
 # Cinema Tickets Code Test
 
-## Objective
+## What I did
 
-Step 1: Input validation - Account Id > 0, ticketRequests not null, ticketCount not null and greater than 0
-Step2: final count is fetched for adult, child and infant
-Step3: Validation done for max tickets, ticket without adult or infant greater than adult
-Step4: Price calculated and payment service called
-Step5: Seat reservation service called 	
+Implemented CinemaTicketsServiceImpl in the existing package — no new packages needed.
+
+1.  Input validation - Account Id > 0, ticketRequests not null, ticketCount not null and greater than 0
+2. final count is fetched for adult, child and infant
+3. Validation done for max tickets, ticket without adult or infant greater than adult
+4. Price calculated and payment service called
+5. Seat reservation service called 	
 
 	
 Assumptions - 
